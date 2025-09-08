@@ -1,0 +1,10 @@
+
+---
+
+### 2. `requirements.txt`
+```txt
+streamlit
+PyPDF2
+pikepdf
+reportlab
+pdfplumber
